@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/narajangter/static/css/main.93a0497a.css",
+    "main.js": "/narajangter/static/js/main.15ace489.js",
+    "index.html": "/narajangter/index.html",
+    "main.93a0497a.css.map": "/narajangter/static/css/main.93a0497a.css.map",
+    "main.15ace489.js.map": "/narajangter/static/js/main.15ace489.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.15ace489.js"
+  ]
+}
